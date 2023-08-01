@@ -1,0 +1,7 @@
+.cabal-sandbox
+cabal.sandbox.config
+dist-newstyle/
+_cache/
+_site/
+.stack-work/
+.DS_Store
